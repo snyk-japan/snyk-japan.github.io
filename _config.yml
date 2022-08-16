@@ -29,7 +29,7 @@ twitter:
 # Build settings
 # theme: minima
 # theme: hacker
-theme: modernist
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
