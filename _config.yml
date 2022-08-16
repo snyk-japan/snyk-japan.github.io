@@ -23,6 +23,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Snyk Japan, DevSecOps, ShiftLeft
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter:
+  username: snykJP
 
 # Build settings
 # theme: minima
