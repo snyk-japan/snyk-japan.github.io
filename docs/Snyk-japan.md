@@ -1,0 +1,5 @@
+---
+layout: page
+---
+
+Snyk Japanについて。
