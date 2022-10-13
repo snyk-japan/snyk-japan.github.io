@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Snyk hands-on ワークショップ"
-date:   2022-10-13 15:00:00 +0900
+date:   2022-10-13 09:00:00 +0900
 categories: Snyk Japan
 ---
 
