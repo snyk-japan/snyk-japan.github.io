@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Snyk hands-on ワークショップ"
+title:  "Snyk ハンズオンワークショップ"
 date:   2022-10-13 09:00:00 +0900
 categories: Snyk Japan
 ---
 
-# Snyk hands-on ワークショップ
+# Snyk ハンズオンワークショップ
 
 アジェンダ：
 
