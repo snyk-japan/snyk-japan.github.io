@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title:  "Snyk ハンズオンワークショップ"
-date:   2022-10-13 09:00:00 +0900
+parmalink: /hands-on-workshop/
 categories: Snyk Japan
 ---
 
