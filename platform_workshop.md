@@ -9,16 +9,13 @@ categories: Snyk Japan
 
 ## アジェンダ：
 
-<font size=20><b>
-* Snyk紹介＆製品概要
+### * Snyk紹介＆製品概要
   * 所要時間：10分
-* [Snyk Code & OSS](https://github.com/snyk-japan/snyk-sca-sast-workshop)
+### * [Snyk Code & OSS](https://github.com/snyk-japan/snyk-sca-sast-workshop)
   * 所要時間：40分 (まとめ10分ふくむ）
-* [Snyk Container](https://github.com/snyk-japan/snyk-container-workshop)
+### * [Snyk Container](https://github.com/snyk-japan/snyk-container-workshop)
   * 所要時間：30分 (まとめ5分ふくむ）
-* [Snyk IaC](https://github.com/snyk-japan/snyk-iac-workshop)
+### * [Snyk IaC](https://github.com/snyk-japan/snyk-iac-workshop)
   * 所要時間：30分 (まとめ5分ふくむ）
-* Q&A
+### * Q&A
   * 所要時間：10分
-</b></font>
-
