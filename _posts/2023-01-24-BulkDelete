@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Welcome to Snyk!"
+date:   2023-01-24 00:00:00 +0900
+categories: Snyk Japan, 
+---
+
+# SnykのProjectsをまとめて削除する方法（Bulk Delete)
+
+Snykの有償版では以下のような構成でGroup - Organization - Projectが成り立っています。
+
+- Group: Groupには多くのOrganizationを持つことができます。多くのケースでは企業毎にGroupを作成し、その下にプロジェクト単位やチーム単位でOrganizationを作成して管理します。
+- Ornaization: Organizationは、複数のProjectを管理するユニットで、それらのProjectにアクセスできるチームメンバーの管理も行えます。Ornanization毎にWeb UIやCLIの設定を変更できますので、：w
+<img src="https://3099555661-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MdwVZ6HOZriajCf5nXH%2Fuploads%2Fgit-blob-fdccc3f1f2fc4e8b4bfefd8e22c90346e8ee277c%2FGroup%20Onboarding%20Session%20v2.0.png?alt=media&token=8dd35e7f-a91f-44cd-a632-cd4c5602f636">
+
